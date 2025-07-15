@@ -1,4 +1,4 @@
-name: madison25flopy
+name: gra25flopy
 channels:
   - conda-forge
   - nodefaults
