@@ -21,14 +21,16 @@ Registration: https://www.grac.org/events/EventDetails.aspx?id=1964618
 
 * Working with conda
 * Jupyter Notebooks
+* get-modflow
 * Examples
-  * Theis
-  * FloPy Quickstart
-  * Toth
-  * Island
-  * Henry
-  * Tidal
-  * Los Angeles Coastal Plain Model
+  * ex01_Theis
+  * ex02_quickstart
+  * ex03_quickstart (part b)
+  * ex04_toth
+  * ex05_island
+  * ex06_henry
+  * ex07_tidal
+  * ex08_lacp
 
 ## Software
 
