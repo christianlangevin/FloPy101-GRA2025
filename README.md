@@ -17,20 +17,18 @@ When: July 16, 2025, 9:00 AM to 11:00 AM Pacific Time
 
 Registration: https://www.grac.org/events/EventDetails.aspx?id=1964618
 
-# Possible Topics
+# Topics and Examples
 
-* Intro & Goals
-* Setting Up Environment
-* MODFLOW Versions & Updates
-* Quick Start Demo
-* Loading Existing Models
-* Building a Model
-* Visualization Basics
-* Working with Spatial Features
-* Transient Models
-* Advanced Visualization
-* Working with Large Models
-* Troubleshooting & Wrap-Up
+* Working with conda
+* Jupyter Notebooks
+* Examples
+  * Theis
+  * FloPy Quickstart
+  * Toth
+  * Island
+  * Henry
+  * Tidal
+  * Los Angeles Coastal Plain Model
 
 ## Software
 
